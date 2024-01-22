@@ -1,0 +1,2 @@
+class ContentFile < ApplicationRecord
+end
